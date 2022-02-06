@@ -44,3 +44,10 @@ Machine Learning Engineer Roadmap
 ## Machine Learning 
 - Basics: Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning.
 
+## In-Depth
+
+ - Overview, goals, learning types, and algorithms <a href="http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/">Link</a>
+ - Data selection, preparation, and modeling <a href="http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/">Link</a>
+ - Model evaluation, validation, complexity, and improvement <a href="http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/">Link</a>
+ - Model performance and error analysis <a href="http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/">Link</a>
+ - Unsupervised learning, related fields, and machine learning in practice <a href="http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/">Link</a>
