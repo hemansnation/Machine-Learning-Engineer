@@ -24,6 +24,11 @@ Machine Learning Engineer Roadmap
 - Linear Algebra
 - Probability
 
+- <a href="http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/">What if I’m Not Good at Mathematics</a>
+- <a href="http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/">5 Techniques To Understand Machine Learning Algorithms Without the Background in Mathematics</a>
+- <a href="https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1">How do I learn machine learning?</a>
+
+
 ## Practice Questions a lot
 - <a href="https://projecteuler.net/">Euler Project</a>
 - <a href="https://leetcode.com/">LeetCode</a>
@@ -38,4 +43,4 @@ Machine Learning Engineer Roadmap
 
 ## Machine Learning 
 - Basics: Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning.
-- 
+
