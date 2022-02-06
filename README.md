@@ -29,4 +29,13 @@ Machine Learning Engineer Roadmap
 - <a href="https://leetcode.com/"></a>
 - <a href="https://www.hackerrank.com/">HackerRank</a>
 
-## 
+## <a href="https://github.com/HemansAI/Nation">Operating System</a>
+- Process Scheduling
+- Multi Threading
+- Memory Management
+- File Management
+- Capacitors, Registor, Transistor
+
+## Machine Learning 
+- Basics: Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning.
+- 
