@@ -26,7 +26,7 @@ Machine Learning Engineer Roadmap
 
 ## Practice Questions a lot
 - <a href="https://projecteuler.net/">Euler Project</a>
-- <a href="https://leetcode.com/"></a>
+- <a href="https://leetcode.com/">LeetCode</a>
 - <a href="https://www.hackerrank.com/">HackerRank</a>
 
 ## <a href="https://github.com/HemansAI/Nation">Operating System</a>
